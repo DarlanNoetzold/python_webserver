@@ -1,2 +1,6 @@
 # python_webserver
- A webserver make with python and integrated with 3 frameworks, Django, Flask and pyramid.
+
+## Projeto
+* Este projeto tem por objetivo criar um webserver do zero com python e suas bibliotecas nativas como 'os' e 'socket';
+* Além disso, foi implementada três integrações com frameworks, o Django, Flask e Pyramid;
+* Por fim, foi implementada uma solução para recebimento de requisições assincronas.
